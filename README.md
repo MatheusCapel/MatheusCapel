@@ -1,4 +1,4 @@
-🟢Olá me chamo Matheus Capel. Amante da tecnologia, formando em Engenharia de Software, procurando atuar
+Olá me chamo Matheus Capel. Amante da tecnologia, formando em Engenharia de Software, procurando atuar
 no mercado como Front-End. 
 
 Vamos nos conectar? 👋
