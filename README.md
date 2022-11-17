@@ -1,5 +1,5 @@
 🟢Olá me chamo Matheus Capel. Amante da tecnologia, formando em Engenharia de Software, procurando atuar
-no mercado com Front-End. 
+no mercado como Front-End. 
 
 🟢Aqui está algumas informaçoes interessantes:
 
@@ -8,3 +8,5 @@ no mercado com Front-End.
 🟢link do meu Linkedin: https://linkedin.com*matheuscapel/
 
 Vamos nos conectar? 👋
+
+
